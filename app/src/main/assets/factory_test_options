@@ -1,0 +1,50 @@
+[
+  {
+    "title": "背光",
+    "fragment": "SimpleInfoFragment"
+  },
+  {
+    "title": "色彩",
+    "fragment": "SimpleInfoFragment",
+    "fullscreen": true
+  },
+  {
+    "title": "灵敏度",
+    "fragment": "TouchTestFragment",
+    "fullscreen": true
+  },
+  {
+    "title": "GPS",
+    "fragment": "GPSWifiFragment"
+  },
+  {
+    "title": "Wifi",
+    "fragment": "GPSWifiFragment"
+  },
+  {
+    "title": "按键",
+    "fragment": "KeyFragment",
+    "fullscreen": true
+  },
+  {
+    "title": "SD卡",
+    "fragment": "SDCardFragment"
+  },
+  {
+    "title": "喇叭",
+    "fragment": "SpeakerFragment"
+  },
+  {
+    "title": "咪头",
+    "fragment": "RecordFragment"
+  },
+  {
+    "title": "版本信息",
+    "fragment": "VersionFragment"
+  },
+  {
+    "title": "USB",
+    "fragment": "How do I read JSON on Android?",
+    "show": false
+  }
+]
